@@ -1,0 +1,14 @@
+alembic==1.14.0
+boto3==1.35.30
+celery==5.4.0
+fastapi==0.115.0
+psycopg[binary]==3.2.3
+pgvector==0.3.6
+pydantic==2.9.2
+pydantic-settings==2.6.0
+PyMuPDF==1.24.10
+python-multipart==0.0.12
+python-pptx==1.0.2
+redis==5.1.1
+sqlalchemy==2.0.36
+uvicorn[standard]==0.31.0
